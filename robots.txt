@@ -1,0 +1,7 @@
+User-agent: Googlebot
+User-agent: googlebot-image
+User-agent: googlebot-mobile
+Disallow: /cgi-bin/
+Sitemap: https://kormuhka.github.io/
+User-agent: Yandex
+Sitemap: https://kormuhka.github.io/sitemap.xml
